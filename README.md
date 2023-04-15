@@ -1,3 +1,3 @@
-# Sopel-Counter
+# Sonny-Counter
 
 luvBB
